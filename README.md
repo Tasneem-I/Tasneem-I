@@ -35,6 +35,8 @@ I've recently discovered a knack for online hackathons, so if you're looking for
 
 # 📧 Socials
 
+I'm most active and quick to reply through LinkedIn:- <br>
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/tasneem-i)
 
 # 📊 Stats
