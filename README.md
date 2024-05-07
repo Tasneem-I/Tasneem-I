@@ -33,6 +33,10 @@ I've recently discovered a knack for online hackathons, so if you're looking for
 
 <br><br>
 
+# 📧 Socials
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/tasneem-i)
+
 # 📊 Stats
 
 ![Tasneem's Github stats](https://github-readme-stats.vercel.app/api?username=Tasneem-I&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
