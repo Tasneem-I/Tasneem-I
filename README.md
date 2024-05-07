@@ -10,6 +10,7 @@ I've recently discovered a knack for online hackathons, so if you're looking for
 <br/>
 
 # 💻 Tech Stack
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,6 +25,9 @@ I've recently discovered a knack for online hackathons, so if you're looking for
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=data&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit-learn-%2320BF6B.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%23FFC000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+
+
 <br><br><br>
 
 # 📊 Stats
