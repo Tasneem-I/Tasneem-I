@@ -3,7 +3,7 @@
 **`Developer/Creator`**
 <br>
 <p>Hey there! Thanks for dropping by!</p><br>
-<p style="text-align : justify;"> I'm Tasneem, a second year majoring in IT. I'm keen on diving into different domains, with a current focus on learning AI and big data. But, I also hold some curiosity towards blockchain and Cloudand wish to explore them 
+<p style="text-align : justify;"> I'm Tasneem, a second year majoring in IT. I'm keen on diving into different domains, with a current focus on learning AI and big data. But, I also hold some curiosity towards blockchain and Cloud and wish to explore them 
 I've recently discovered a knack for online hackathons, so if you're looking for a teammate or just want to brainstorm some cool ideas, don't hesitate to reach out! 
 </p>
 <br/>
