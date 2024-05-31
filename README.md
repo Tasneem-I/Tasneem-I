@@ -40,8 +40,7 @@ I'm most active and quick to reply through LinkedIn:- <br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/tasneem-i)
 
 # 📊 Stats
-
-![Tasneem's Github stats](https://github-readme-stats.vercel.app/api?username=Tasneem-I&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasneem-I)](https://github.com/Tasneem-I/github-readme-stats)
 <br/>
 <br>
 <br>
