@@ -41,7 +41,7 @@ I'm most active and quick to reply through LinkedIn:- <br>
 
 # 📊 Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasneem-I)](https://github.com/Tasneem-I/github-readme-stats)
-![Tasneem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tasneem-I&show_icons=true&theme=radical)
+![Tasneem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tasneem-I&show_icons=true&theme=radical&private=True)
 <br/>
 <br>
 <br>
